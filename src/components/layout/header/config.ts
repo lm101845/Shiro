@@ -26,7 +26,7 @@ export interface IHeaderMenu {
 }
 export const headerMenuConfig: IHeaderMenu[] = [
   {
-    title: '首页',
+    title: '我的首页',
     path: '/',
     type: 'Home',
     icon: h(FaSolidDotCircle),
